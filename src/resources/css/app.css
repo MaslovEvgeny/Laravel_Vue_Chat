@@ -1,0 +1,8 @@
+.active_link {
+    color: #0d6efd;
+}
+
+.active_link:focus {
+    color: #0d6efd;
+}
+
